@@ -2,7 +2,7 @@
 ## Description
 
 FishTrackerBot is a project that integrates image processing, machine learning, and motion control to track fish and navigate a robot accordingly. The project uses a Raspberry Pi, OpenCV for image processing, and GPIO for motor control.
-![Fish Image]('/output/17.png')
+![Fish Image](/output/17.png)
 
 ## Files
 
